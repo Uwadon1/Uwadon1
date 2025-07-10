@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Uwadon1/Uwadon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,12 +5,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -85,6 +77,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uwadon1&layout=compact&theme=radical)](https://github.com/Uwadon1)
 
 ---
+
+##⚡ **Fun fact**: I love to play chess and watch military documentaries.
 
 ## 🤝 **Let's Connect!**  
 I'm open to collaborations and new opportunities in **DevOps/Cloud Engineering**.  
