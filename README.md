@@ -81,7 +81,8 @@ I'm a Cloud & DevOps Engineer passionate about building scalable infrastructure 
 
 ---
 
-##⚡ **Fun fact**: I love to play chess and watch military documentaries.
+## 🤝⚡ **Fun Fact!** :
+I enjoy playing chess and watching military documentaries.
 
 ## 🤝 **Let's Connect!**  
 I'm open to collaborations and new opportunities in **DevOps/Cloud Engineering**.  
