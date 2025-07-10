@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm UWADONE CHUKS JOSHUA  
 ### **Cloud | DevOps Engineer**  
+I'm a Cloud & DevOps Engineer passionate about building scalable infrastructure and automating everything. With hands-on experience in AWS, Infrastructure-as-Code, container orchestration, and CI/CD pipelines, I help teams deploy faster, safer, and more reliably.
+
+
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?logo=amazonaws)]([https://www.credly.com/badges/YOUR_BADGE_ID](https://www.credly.com/earner/earned/badge/b957e918-5402-4962-a2df-07458ff3ee1f))
 [![Kubernetes](https://img.shields.io/badge/In_Progress-KCNA-326CE5?logo=kubernetes)](https://training.linuxfoundation.org/certification/kcna/)
 
